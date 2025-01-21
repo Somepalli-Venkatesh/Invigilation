@@ -1,4 +1,4 @@
-#Invigilation Management System
+## Invigilation Management System
 
 The **Invigilation Management System** serves as a centralized repository for securely storing and tracking invigilation records of teaching staff in an educational institution. Authorized users can efficiently access and search the database for specific staff members' invigilation schedules and assignments. This digital solution eliminates manual paperwork, saving time and promoting transparency.
 
