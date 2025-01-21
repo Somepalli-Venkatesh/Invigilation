@@ -1,6 +1,6 @@
-# Teacher Invigilation Tracking System
+#Invigilation Management System
 
-The **Teacher Invigilation Tracking System** serves as a centralized repository for securely storing and tracking invigilation records of teaching staff in an educational institution. Authorized users can efficiently access and search the database for specific staff members' invigilation schedules and assignments. This digital solution eliminates manual paperwork, saving time and promoting transparency.
+The **Invigilation Management System** serves as a centralized repository for securely storing and tracking invigilation records of teaching staff in an educational institution. Authorized users can efficiently access and search the database for specific staff members' invigilation schedules and assignments. This digital solution eliminates manual paperwork, saving time and promoting transparency.
 
 ## Features
 - **Centralized Record Management**: Store all invigilation records in a secure, easily accessible database.
@@ -69,32 +69,7 @@ npm start
    - Add or update invigilation records.
    - Search for specific teaching staff and view their schedules.
 
-## Folder Structure
-### Backend
-```plaintext
-backend/
-|-- routes/         # API route definitions
-|-- controllers/    # Logic for handling API requests
-|-- models/         # MongoDB schemas and models
-|-- middleware/     # Middleware functions, including JWT authentication
-|-- server.js       # Main entry point for the backend application
-```
 
-### Frontend
-```plaintext
-frontend/
-|-- src/components/ # Reusable React components
-|-- src/pages/      # Page-specific components
-|-- src/services/   # API service functions
-|-- src/App.js      # Main application component
-```
 
-## Future Enhancements
-- Generate automated reports for invigilation assignments.
-- Implement notifications for upcoming invigilation duties.
-- Role-based dashboards for administrators and teaching staff.
-
-## License
-This project is licensed under the MIT License.
 
 
