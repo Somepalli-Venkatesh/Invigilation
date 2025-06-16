@@ -31,6 +31,33 @@ The **Invigilation Management System** serves as a centralized repository for se
   </tr>
 </table>
 
+## 🛠 Setup & Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/Somepalli-Venkatesh/invigilation
+```
+
+2. **Install dependencies for the root**
+```bash
+npm install
+```
+3. **Start the frontend**
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+4. **Set up the backend**
+```bash
+cd backend
+npm install
+```
+5. **Start the backend**
+```bash
+npm start
+```
 
 
 
