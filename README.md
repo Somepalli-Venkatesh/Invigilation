@@ -10,6 +10,26 @@ The **Invigilation Management System** serves as a centralized repository for se
 - **Efficiency**: Eliminate manual paperwork and streamline administrative processes.
 
 ## Technologies Used
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+     <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+  </tr>
+</table>
 
 
 
