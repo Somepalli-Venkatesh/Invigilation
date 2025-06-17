@@ -99,22 +99,32 @@ npm start
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./ScreenShots/seven.png" alt="Admin Panel - User Management" />
-      <p><strong>Group Details</strong></p>
+      <img src="./ScreenShots/select.png" alt="Admin Panel - User Management" />
+      <p><strong>select rooms and faculty</strong></p>
     </td>
     <td width="50%" align="center">
-      <img src="./ScreenShots/eight.png" alt="Admin Panel - Content Management" />
-      <p><strong>Group Invitation</strong></p>
+      <img src="./ScreenShots/details.png" alt="Admin Panel - Content Management" />
+      <p><strong>Random Allocation</strong></p>
     </td>
   </tr>
  <tr>
     <td width="50%" align="center">
-      <img src="./ScreenShots/nine.png" alt="Custom Themes Settings" />
-      <p><strong>Deleting Group</strong></p>
+      <img src="./ScreenShots/generate.png" alt="Custom Themes Settings" />
+      <p><strong>Add details to generate pdf</strong></p>
     </td>
     <td width="50%" align="center">
-      <img src="./ScreenShots/ten.png" alt="AI Assistance Integration" />
-      <p><strong>Create Group</strong></p>
+      <img src="./ScreenShots/pdf.png" alt="AI Assistance Integration" />
+      <p><strong>Downloaded pdf</strong></p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/past.png" alt="Custom Themes Settings" />
+      <p><strong>Past Invigilations</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/announce.png" alt="AI Assistance Integration" />
+      <p><strong>Announcements</strong></p>
     </td>
   </tr>
 </table>
