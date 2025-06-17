@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./ScreenShots/home.png" alt="IMS Logo" width="1200" />
+</div>
+
 ## Invigilation Management System
 
 The **Invigilation Management System** serves as a centralized repository for securely storing and tracking invigilation records of teaching staff in an educational institution. Authorized users can efficiently access and search the database for specific staff members' invigilation schedules and assignments. This digital solution eliminates manual paperwork, saving time and promoting transparency.
@@ -54,10 +58,66 @@ npm run dev
 cd backend
 npm install
 ```
+
 5. **Start the backend**
 ```bash
 npm start
 ```
+
+## 📸 Workflow ▶
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/home.png" alt="Landing Page" />
+      <p><strong>Home Page</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/Signin.png" alt="Login Process" />
+      <p><strong>Login Process</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/Signup.png" alt="Registration Page" />
+      <p><strong>Registration Page</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/Dashboard.png" alt="Dashboard Overview" />
+      <p><strong>Dashboard</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/faculty.png" alt="Real-time Chat Interface" />
+      <p><strong>Faculty Details</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/Allocation.png" alt="Group Creation Page" />
+      <p><strong>Allocation Page</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/seven.png" alt="Admin Panel - User Management" />
+      <p><strong>Group Details</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/eight.png" alt="Admin Panel - Content Management" />
+      <p><strong>Group Invitation</strong></p>
+    </td>
+  </tr>
+ <tr>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/nine.png" alt="Custom Themes Settings" />
+      <p><strong>Deleting Group</strong></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./ScreenShots/ten.png" alt="AI Assistance Integration" />
+      <p><strong>Create Group</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
